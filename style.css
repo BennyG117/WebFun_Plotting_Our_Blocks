@@ -1,0 +1,63 @@
+.container{
+    width: 950px;
+    background-color: silver;
+    padding-top: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    margin: 0px auto;
+}
+.top-nav {
+    height: 150px;
+    background-color: green;
+    margin: 10px;
+}
+.side-nav {
+    height: 350px;
+    width: 200px;
+    margin: 10px;
+    margin-bottom: 110px;
+    display: inline-block;
+    background-color: blue;
+}
+.main {
+    height: 400px;
+    width: 700px;
+    margin: 10px;
+    padding: 3px;
+    vertical-align: top;
+    display: inline-block;
+    background-color: red;
+}
+.sub-content {
+    height: 180px;
+    width: 200px;
+    border: 1px solid yellow;
+    margin: 8px;
+    /* align: left;*/
+    display: inline-block;
+    /*above allows you to input demensions - since regular inline doesn't take demensions*/
+    background-color: yellow;
+}
+
+/*#box1 {
+    float: left;
+}
+
+#box2 {
+    float: left;
+}
+
+#box3 {
+    float: left;
+}*/
+
+#advertisement {
+    height: 120px;
+    width: 650px;
+    margin: 10px;
+    display: inline-block;
+    /*float: center;*/
+    background-color: purple;
+}
+
